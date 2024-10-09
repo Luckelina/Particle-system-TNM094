@@ -8,4 +8,4 @@ The code structure for the particle system and emitters/ effects can be found in
 and
 "particlesystem/include/particlesystem"
 
-To spawn emitters and effects, go to "particlesystem/src/main.pp" and add code. You can find existing examples for help.
+To spawn emitters and effects, go to "particlesystem/src/main.cpp" and add code. You can find existing examples already added.
